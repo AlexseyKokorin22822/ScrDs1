@@ -1,0 +1,17 @@
+{
+  "vk": {
+    "token": "e73c2e6d8cc84243ebff0d5d39b7e8e4470eae4dcdf59930d38d5dfb64963b62ea3eafb13ad1bf81a2bf1",
+    "group_id": "public194527528",
+    "keywords": [],
+    "filter": true,
+    "longpoll": true
+  },
+  "discord": {
+    "webhook_urls": [
+      "https://discordapp.com/api/webhooks/703538611248824341/yteLC-MRi9zNGhSRaWozgOnxqXPf9rC0BwOawB9qIpA5I5owsRrMNqifvIhkQlEKJlGI"
+    ],
+    "bot_name": "Rass",
+    "color": "#aabbcc"
+  },
+  "interval": 30
+}
